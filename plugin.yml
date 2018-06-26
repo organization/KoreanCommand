@@ -1,0 +1,12 @@
+name: KoreanCommand
+main: koreancommand\Main
+version: 1.0.0
+api:
+ - 3.0.0
+ - 3.1.0
+ - 4.0.0
+
+author: maru
+description: 한글 명령어 도움
+
+load: STARTUP
